@@ -3,7 +3,7 @@
 <p>command for terminal:</p>
 <p>http-server dev-test-exercise</p>
 <p>copy paste the generated url on the address bar</p>
-
+<p>Follow: <a href='https://www.npmjs.com/package/http-server'>Click here</p>
 <p><a href="https://dev.hogarthww.tech/#download-the-test-files">https://dev.hogarthww.tech/#download-the-test-files</a></p>
 <h1>Overview</h1>
 <hr>
